@@ -3,7 +3,7 @@
 Two short, runnable demonstrations, covering both halves of
 the asset-protection story: the **integrity / provenance** of AI assets, and their
 **confidentiality** across the quantum transition Both show the migration as a
-crypto-agility exercise available today, not a 2035 problem. Additionally a glimpse of adversarial atttacks using quantum agaist quantum-based ML
+crypto-agility exercise available today, not a 2035 problem. Additionally **a glimpse of adversarial atttacks using quantum agaist quantum-based ML**
 
 ## The three demos
 
