@@ -1,0 +1,15 @@
+# runtime artefact written by vqc_glimpse.py
+vqc_params.bin
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
