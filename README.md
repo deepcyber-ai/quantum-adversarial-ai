@@ -1,9 +1,9 @@
 # Securing AI Assets Before Q-Day - demonstrations
 
-Two short, runnable demonstrations for the AMLUCS session, covering both halves of
+Two short, runnable demonstrations, covering both halves of
 the asset-protection story: the **integrity / provenance** of AI assets, and their
-**confidentiality** across the quantum transition. Both show the migration as a
-crypto-agility exercise available today, not a 2035 problem.
+**confidentiality** across the quantum transition Both show the migration as a
+crypto-agility exercise available today, not a 2035 problem. Additionally a glimpse of adversarial atttacks using quantum agaist quantum-based ML
 
 ## The two demos
 
@@ -23,7 +23,7 @@ FIPS 203) and hybrid; a clear "confidential after Q-Day?" table; authenticated-
 encryption tamper-evidence; and a size/cost comparison.
 
 ### 3. The glimpse - `vqc_glimpse.py`
-The closing forward-look. Trains a small variational quantum classifier, exports
+ Trains a small variational quantum classifier, exports
 its weights as the artefact (the same kind of asset the two demos above protect),
 then finds the cheapest gradient-aligned input perturbation that flips a correct
 prediction, and contrasts it with random perturbations of the same size. The point
@@ -51,7 +51,7 @@ python3 vqc_glimpse.py
 No network access and no native build are required; all dependencies are
 pure-Python and pip-installable.
 
-## Honest caveats (worth stating on stage)
+## Honest caveats 
 
 - **Timings are not representative.** ML-DSA and ML-KEM here use pure-Python
   reference implementations, so the figures are dominated by interpreter overhead
