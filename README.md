@@ -71,7 +71,7 @@ pure-Python and pip-installable.
 - **Hybrid** is the conservative transition posture (NCSC / NIST / IETF): a forger,
   or an eavesdropper, must defeat both the classical and the post-quantum scheme.
 
-## The teaching point
+## The main point
 
 The near-term quantum threat to AI is to the confidentiality and integrity of its
 assets. Model IP, training data and provenance can be protected with NIST post-
@@ -79,6 +79,8 @@ quantum cryptography today, with crypto-agility and a hybrid transition, ahead o
 the NCSC 2028 / 2031 / 2035 migration milestones - and harvest-now-decrypt-later
 means confidentiality, in particular, cannot wait, because it cannot be applied
 retroactively to ciphertext already stolen.
+
+Adversarial ML using quantim is the next frontier but no ready ye
 
 ## Standards referenced
 
