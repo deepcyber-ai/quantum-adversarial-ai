@@ -5,7 +5,7 @@ the asset-protection story: the **integrity / provenance** of AI assets, and the
 **confidentiality** across the quantum transition Both show the migration as a
 crypto-agility exercise available today, not a 2035 problem. Additionally a glimpse of adversarial atttacks using quantum agaist quantum-based ML
 
-## The two demos
+## The three demos
 
 ### 1. Provenance - `pqc_model_provenance.py`
 Signs a model artefact and its AI Bill of Materials (AIBOM) so the provenance
