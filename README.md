@@ -57,7 +57,7 @@ python3 vqc_transfer.py
 No network access and no native build are required; all dependencies are
 pure-Python and pip-installable.
 
-## Honest caveats (worth stating on stage)
+## Honest caveats
 
 - **The frontier is not an operational threat today.** There is no demonstrated
   quantum advantage for attacking classical AI. Demos 3 and 4 show where the
@@ -79,13 +79,13 @@ pure-Python and pip-installable.
 - **Hybrid** is the conservative transition posture (NCSC / NIST / IETF): safe
   unless both the classical and post-quantum scheme fall.
 
-## The through-line
+## Conclusions
 
 The near-term quantum threat to AI is to the confidentiality and integrity of its
 assets, and that is protectable today with NIST post-quantum cryptography, crypto-
 agility and a hybrid transition, ahead of the NCSC 2028 / 2031 / 2035 milestones.
 Harvest-now-decrypt-later makes confidentiality urgent, because it cannot be applied
-retroactively. And as AI itself moves onto quantum substrates, the adversarial
+retroactively. And as AI itself moves onto quantum areas, the adversarial
 threat model transforms - in both directions - which is the frontier these last two
 demos begin to map with running code rather than slogans.
 

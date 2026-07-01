@@ -1,4 +1,0 @@
-dilithium-py
-kyber-py
-cryptography
-pennylane
